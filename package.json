@@ -1,9 +1,9 @@
 {
-  "name": "nodejs-in-action",
+  "name": "nodejs-chat-room",
   "version": "1.0.0",
-  "description": "Learning Nodejs",
+  "description": "Chat Room Node.js Version",
   "main": "index.js",
-  "repository": "git@github.com:Plortinus/NodejsInAction.git",
+  "repository": "git@github.com:Plortinus/nodejs-chat-room.git",
   "author": "王晓勇 <plortinus@gmail.com>",
   "license": "MIT",
   "private": false,
